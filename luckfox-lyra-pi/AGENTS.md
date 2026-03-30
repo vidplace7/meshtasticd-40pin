@@ -1,6 +1,8 @@
 # Luckfox Lyra Pi
 luckfox-lyra-pi
 
+Rockchip RK3506B
+
 ## Physical Pinout
 40-pin header (Raspberry-Pi style)
 

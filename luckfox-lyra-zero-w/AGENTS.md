@@ -1,6 +1,8 @@
 # Luckfox Lyra Zero W
 luckfox-lyra-zero-w
 
+Rockchip RK3506B
+
 ## Physical Pinout
 40-pin header (Raspberry-Pi style)
 

@@ -3,6 +3,8 @@ ebyte-ecb41-pge
 
 https://ebyte-ec.yuque.com/org-wiki-ebyte-ec-ll3png/asr6ma/eynqfoxa8kgecor0
 
+Rockchip RK3506G2
+
 ## Physical Pinout
 40-pin header (Raspberry-Pi style)
 
@@ -15,7 +17,7 @@ https://ebyte-ec.yuque.com/org-wiki-ebyte-ec-ll3png/asr6ma/eynqfoxa8kgecor0
 | 9 | GND | 10 | GPIO1_D3/UART1_RX |
 | 11 | GPIO1_A1 | 12 | GPIO0_B4/SAI2_SCLK |
 | 13 | GPIO0_D0 | 14 | GND |
-| 15 | GPIO0_A5//UART3_TX | 16 | GPIO1_C2/CAN1_TX |
+| 15 | GPIO0_A5/UART3_TX | 16 | GPIO1_C2/CAN1_TX |
 | 17 | 3V3 | 18 | GPIO1_C3/CAN1_RX |
 | 19 | GPIO0_B1/SPI1_MOSI | 20 | GND |
 | 21 | GPIO0_B2/SPI1_MISO | 22 | GPIO0_A4/UART3_RX |

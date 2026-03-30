@@ -2,7 +2,6 @@
 raspberry-pi
 
 ## Physical Pinout
-
 40-pin header
 
 | Pin | Function | Pin | Function |
